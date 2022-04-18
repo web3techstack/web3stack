@@ -27,7 +27,7 @@ You can run `geth` yourself - but you will most likely use one of the node top p
 
 The problem with nodes is that they unfortunately can't give you a lot of meaningful information such as all tokens of a user, all NFTs of a user, volume in a decentralized exchange etc.
 
-This makes the nodes practically use-less for the average dapp developer as you are required to run a backend infrastructure to pull out the low-level information and make sense of it. This process of making sense of node data by processing it on the backend is called `indexing`.
+This makes the nodes practically useless for the average dapp developer as you are required to run a backend infrastructure to pull out the low-level information and make sense of it. This process of making sense of node data by processing it on the backend is called `indexing`.
 
 Instead of doing all this heavy-lifting yourself you will most likely use an API.
 
